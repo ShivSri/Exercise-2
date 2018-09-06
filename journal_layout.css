@@ -1,0 +1,62 @@
+body{
+  background-image: url("background1.jpg");
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h1{
+  text-align: right;
+}
+div{
+
+    background-color: #A8F0F0;
+}
+
+.first{
+  text-align: right;
+
+}
+.second{
+  border-bottom:  2px dashed blue;
+
+}
+.half{
+  border: 4px solid #C2E9E9;
+  background-color: #E8FBFB;
+  padding: 5px 5px 5px 5px;
+  margin: 10px 0px 0px 0px;
+  overflow:auto;
+  font-size: 25px;
+}
+.secondhalf{
+  border: 4px solid #C2E9E9;
+  background-color: #E8FBFB;
+  padding: 5px 5px 5px 5px;
+  margin: 10px 0px 0px 0px;
+  overflow: auto;
+  font-size: 25px;
+}
+.other{
+    border-bottom: 2px dashed blue;
+}
+.all{
+  border: solid white 10px;
+  background-color: white;
+}
+.ro{
+  float:right;
+  border-right-style: none;
+}
+.friends{
+  float: left;
+  border: 4px solid #C2E9E9;
+  background-color: #E8FBFB;
+
+  margin: 1px 1px 2px 12px;
+  overflow: visible;
+  position: relative;
+
+
+}
+.ab{
+  text-align: left;
+}
